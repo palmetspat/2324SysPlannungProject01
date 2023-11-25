@@ -47,4 +47,5 @@ Scanner und Drucker zu entwickeln, der Scanner soll:
   
   ## Verlinkungen zu den nächsten Punkten des Projektes
   - [Initial Situation.](https://github.com/palmetspat/project1Syp/blob/main/Initial%20Situation.md)
+  - [General conditions and constraints](https://github.com/palmetspat/project1Syp/blob/main/General%20conditions%20and%20constraints.md)
 
