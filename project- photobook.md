@@ -36,5 +36,10 @@ Scanner und Drucker zu entwickeln, der Scanner soll:
 
 ## Affordability of project
 #### (Finanzierung des Projektes)
-- 
+- Die zu erwartenden Kosten durch Analyse, Entwicklung, Testphasen und Produktion können durch unser großes Produkt Portfolie refinanziert werden. 
 
+## Market and economic effect of project
+#### ( Markt und Wirtschaftseffekt des Projektes)
+- Auf dem globalen Markt gibt es nur sehr wenige Anbieter für die Digitalisierung seiner Bilder aus dem privaten Fotoalbum. 
+
+- Im Besitz eines Fotoalbums sind mehrere Millionen Menschen auf der Welt. Daher gibt es zahlreiche potentielle Kunden, die starke Interesse an des Geschäftsmodell zeigen werden. 
