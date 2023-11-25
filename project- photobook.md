@@ -43,5 +43,5 @@ Scanner und Drucker zu entwickeln, der Scanner soll:
 - Auf dem globalen Markt gibt es nur sehr wenige Anbieter für die Digitalisierung seiner Bilder aus dem privaten Fotoalbum. 
 
 - Im Besitz eines Fotoalbums sind mehrere Millionen Menschen auf der Welt. Daher gibt es zahlreiche potentielle Kunden, die starke Interesse an des Geschäftsmodell zeigen werden. 
-  [Initial Situation](Initial Situation.md)
+  [Initial Situation.md](Initial Situation.md)
 
