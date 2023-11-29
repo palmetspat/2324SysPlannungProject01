@@ -9,3 +9,9 @@ aber auch Möglichkeit ein neues Fotoalbum zu bekommen wo die Bilder nach Wunsch
 
 
 [Main page](https://github.com/palmetspat/project1Syp/blob/main/PROJECT-PHOTOBOOK.md)
+## Verlinkungen zu den nächsten Punkten des Projektes
+- [Main page](https://github.com/palmetspat/project1Syp/blob/main/PROJECT-PHOTOBOOK.md)
+- [Initial Situation.](https://github.com/palmetspat/project1Syp/blob/main/Initial%20Situation.md)
+- [General conditions and constraints](https://github.com/palmetspat/project1Syp/blob/main/General%20conditions%20and%20constraints.md)
+- [Opportunities and risks](https://github.com/palmetspat/project1Syp/blob/main/Opportunities%20and%20risks.md)
+- [Planning](https://github.com/palmetspat/project1Syp/blob/main/Planning.md)
