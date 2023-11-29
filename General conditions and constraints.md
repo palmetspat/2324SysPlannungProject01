@@ -2,8 +2,8 @@
 ### (Rahmenbedingungen und Einschränkungen)
 ### Budget Situation
 #### (finanzielle Situation)
-- Eigenkapital von 60.000
-- EuroZusätzliches Einkommen durch Sponsoring
+- Eigenkapital von 60.000 Euro
+- Zusätzliches Einkommen durch Sponsoring
 - Darlehen von 10.000 Euro
 ### Organizational contraints 
 #### (Organisatorische Einschränkungen)
