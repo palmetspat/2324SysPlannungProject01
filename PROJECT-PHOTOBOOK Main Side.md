@@ -1,5 +1,6 @@
 
 # 01Project Photobook
+<img src="[link_zu_deinem_bild.jpg](https://github.com/palmetspat/project1Syp/assets/145586843/6cab750e-65e8-4578-a0c2-8541185fd4bb)" alt="Beschreibung des Bildes" width="150" />
 
 ![_b2c193c9-d3b9-45a4-a863-18218cdf50a3](https://github.com/palmetspat/project1Syp/assets/145586843/6cab750e-65e8-4578-a0c2-8541185fd4bb)
 
