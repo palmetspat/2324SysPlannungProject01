@@ -1,4 +1,4 @@
-# 01ProjectPhotobook
+# 01Project Photobook
 
 ## Give basis for the management decision of project approval 
 #### (Grundlage zur Projektgenehmigung)
