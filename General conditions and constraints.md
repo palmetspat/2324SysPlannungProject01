@@ -12,3 +12,9 @@ Da wir als europäisches Unternehmen dem europäischen Datenschutz unterliegen, 
 ### Technical contraints
 #### (Technische Einschränkungen)
 Der Bau des Druckers werrden wir an unseren externen Partner weitergeben, da unsere Kenntnisse im Druckerbau nicht ausreichen. Dabei werden unsere wünsche und Vorstellungen präzise an den Partner weitergeben um sicherzustellen, dass Hardware und Software optimal funktionieren. Qualität und Preis spielen dabei eine wichtige Rolle Testphasen und Versionsupdates werden im Zuge der Nacharbeit berücksichtigt. 
+
+  - [Initial Situation.](https://github.com/palmetspat/project1Syp/blob/main/Initial%20Situation.md)
+  - [General conditions and constraints](https://github.com/palmetspat/project1Syp/blob/main/General%20conditions%20and%20constraints.md)
+  - [Project objectives and system concepts](https://github.com/palmetspat/project1Syp/blob/main/Project%20objectives%20and%20system%20concepts.md)
+  - [Opportunities and risks](https://github.com/palmetspat/project1Syp/blob/main/Opportunities%20and%20risks.md)
+  - [Planning](https://github.com/palmetspat/project1Syp/blob/main/Planning.md)
