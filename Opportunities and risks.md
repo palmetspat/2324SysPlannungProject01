@@ -8,6 +8,11 @@ Diejenigen, die über 40 Jahre alt sind, bewahren besonders viele analoge Bilder
 -  Das Risiko besteht darin, dass die Fotoalben immer weniger werden und die potentielle Kundschaft dadurch verschwindet. Auch der finazielle Aspekt des Kunden kann eine Rolle spielen. 
 
 
-
+## Verlinkungen zu den nächsten Punkten des Projektes
+- 
+- [Initial Situation.](https://github.com/palmetspat/project1Syp/blob/main/Initial%20Situation.md)
+- [General conditions and constraints](https://github.com/palmetspat/project1Syp/blob/main/General%20conditions%20and%20constraints.md)
+- [Project objectives and system concepts](https://github.com/palmetspat/project1Syp/blob/main/Project%20objectives%20and%20system%20concepts.md)
+- [Planning](https://github.com/palmetspat/project1Syp/blob/main/Planning.md)
 
 
