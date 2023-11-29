@@ -21,7 +21,7 @@ jedoch sind diese entweder teuer oder qualitativ nicht hochwertig.
 Aus diesem Grund wurde die Idee geschaffen, einen Multifunktionsgerät bestehend aus 
 Scanner und Drucker zu entwickeln, der Scanner soll:
 - Die vorhandene Bildqualität 1:1 zu digitalisieren
-- Die Bildqualiät des eingescannten Bildes mit intelligenter QI Technologie verbessern
+- Die Bildqualiät des eingescannten Bildes mit Software verbessern
 - Oder eine manuelle Bearbeitung des Bildes
 
 ## Necessity of project
