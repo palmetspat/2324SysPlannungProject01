@@ -24,7 +24,14 @@
 
 - Platzersparnis: Fotoalben nehmen viel Platz ein. Durch die Digitalisierung können Menschen Platz sparen und dennoch ihre gesamte Fotosammlung verfügbar halten. 
 
-- Bequemlichkeit und Sicherheit: Digitale Kopien sind leichter zu sichern und vor Umweltschäden oder Verlust zu schützen, im Vergleich zu physischen Kopien, die leicht beschädigt oder verloren gehen können. 
+- Bequemlichkeit und Sicherheit: Digitale Kopien sind leichter zu sichern und vor Umweltschäden oder Verlust zu schützen, im Vergleich zu physischen Kopien, die leicht beschädigt oder verloren gehen können.
+
+    ## Verlinkungen zu den nächsten Punkten des Projektes
+  - [Main page](https://github.com/palmetspat/project1Syp/blob/main/Initial%20Situation.md)
+  - [General conditions and constraints](https://github.com/palmetspat/project1Syp/blob/main/General%20conditions%20and%20constraints.md)
+  - [Project objectives and system concepts](https://github.com/palmetspat/project1Syp/blob/main/Project%20objectives%20and%20system%20concepts.md)
+  - [Opportunities and risks](https://github.com/palmetspat/project1Syp/blob/main/Opportunities%20and%20risks.md)
+  - [Planning](https://github.com/palmetspat/project1Syp/blob/main/Planning.md)
   
 
  
