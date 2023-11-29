@@ -1,6 +1,6 @@
 
 # 01Project Photobook
-<img src="https://github.com/palmetspat/project1Syp/assets/145586843/6cab750e-65e8-4578-a0c2-8541185fd4bb" alt="Beschreibung des Bildes" width="250" />
+<img src="https://github.com/palmetspat/project1Syp/assets/145586843/6cab750e-65e8-4578-a0c2-8541185fd4bb" alt="Photobook digital" width="250" />
 
 
 ## Give basis for the management decision of project approval 
