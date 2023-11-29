@@ -8,7 +8,7 @@ ob sie ihre Fotos nur digital haben möchten per USB stick oder auch per Cloud o
 aber auch Möglichkeit ein neues Fotoalbum zu bekommen wo die Bilder nach Wunsch angepasst wurden.
 
 
-[Main page](https://github.com/palmetspat/project1Syp/blob/main/PROJECT-PHOTOBOOK.md)
+
 ## Verlinkungen zu den nächsten Punkten des Projektes
 - [Main page](https://github.com/palmetspat/project1Syp/blob/main/PROJECT-PHOTOBOOK.md)
 - [Initial Situation.](https://github.com/palmetspat/project1Syp/blob/main/Initial%20Situation.md)
