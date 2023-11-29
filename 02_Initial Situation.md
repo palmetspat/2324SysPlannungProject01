@@ -1,6 +1,6 @@
 # Initial Situation
 ### (Die ANFANGS - Situation)  
-
+Es existieren auf der Welt noch milliarden analoge Fotos, die auf Dachböden oder in Kellern in Aufbewahrungsboxen gelagert werden. Sehr viele Leute wissen über diese Situation bescheid, haben aber doch keine Möglichkeit diese zu digitalisieren. 
  
 
 
