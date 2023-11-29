@@ -28,7 +28,7 @@ Scanner und Drucker zu entwickeln, der Scanner soll:
 #### (Notwendigkeit des Projektes)
 - Millionen von Personen besitzen noch zahlreiche Fotoalben, wo  sie ihre alten Bilder aufbewahren. 
 
-- Die entwickelten Fotos auf Papier haben nur eine begrenzte Lebensdauer, sie verblasen nach einiger Zeit und verfärben sich. 
+- Die entwickelten Fotos auf Papier haben nur eine begrenzte Lebensdauer, sie verblassen nach einiger Zeit und verfärben sich. 
 
 - Durch die digitale Sicherung der Fotos verhindert man den Verlust seiner wertvollen Erinnerungen. 
 
