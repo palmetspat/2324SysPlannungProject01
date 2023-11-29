@@ -44,11 +44,10 @@ Scanner und Drucker zu entwickeln, der Scanner soll:
 
 - Im Besitz eines Fotoalbums sind mehrere Millionen Menschen auf der Welt. Daher gibt es zahlreiche potentielle Kunden, die starke Interesse an des Geschäftsmodell zeigen werden.
 
-  
-  ## Verlinkungen zu den nächsten Punkten des Projektes
-  - [Initial Situation.](https://github.com/palmetspat/project1Syp/blob/main/Initial%20Situation.md)
-  - [General conditions and constraints](https://github.com/palmetspat/project1Syp/blob/main/General%20conditions%20and%20constraints.md)
-  - [Project objectives and system concepts](https://github.com/palmetspat/project1Syp/blob/main/Project%20objectives%20and%20system%20concepts.md)
-  - [Opportunities and risks](https://github.com/palmetspat/project1Syp/blob/main/Opportunities%20and%20risks.md)
-  - [Planning](https://github.com/palmetspat/project1Syp/blob/main/Planning.md)
+## Verlinkungen zu den nächsten Punkten des Projektes
+- [Initial Situation.](https://github.com/palmetspat/project1Syp/blob/main/Initial%20Situation.md)
+- [General conditions and constraints](https://github.com/palmetspat/project1Syp/blob/main/General%20conditions%20and%20constraints.md)
+- [Project objectives and system concepts](https://github.com/palmetspat/project1Syp/blob/main/Project%20objectives%20and%20system%20concepts.md)
+- [Opportunities and risks](https://github.com/palmetspat/project1Syp/blob/main/Opportunities%20and%20risks.md)
+- [Planning](https://github.com/palmetspat/project1Syp/blob/main/Planning.md)
 
