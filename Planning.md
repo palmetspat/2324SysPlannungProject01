@@ -53,7 +53,12 @@ Das Vorhandensein einer klaren Strategie, eines motivierten Teams und eines bew�
 Die externe Entwicklung des Druckers ist ein Schlüsselfaktor, der die Notwendigkeit zusätzlicher Ressourcen, finanzieller Mittel und möglicherweise auch Zeit benötigen um eine reibungslose Zusammenarbeit zu gewährleisten und unser Projekt erfolgreich abzuschließen.
 
 
-- [Main page](https://github.com/palmetspat/project1Syp/blob/main/PROJECT-PHOTOBOOK.md)
 
+## Verlinkungen zu den nächsten Punkten des Projektes
+- [Main page](https://github.com/palmetspat/project1Syp/blob/main/PROJECT-PHOTOBOOK.md)
+- [Initial Situation.](https://github.com/palmetspat/project1Syp/blob/main/Initial%20Situation.md)
+- [General conditions and constraints](https://github.com/palmetspat/project1Syp/blob/main/General%20conditions%20and%20constraints.md)
+- [Project objectives and system concepts](https://github.com/palmetspat/project1Syp/blob/main/Project%20objectives%20and%20system%20concepts.md)
+- [Opportunities and risks](https://github.com/palmetspat/project1Syp/blob/main/Opportunities%20and%20risks.md)
 
 
