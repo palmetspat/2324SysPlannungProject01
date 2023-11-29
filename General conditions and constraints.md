@@ -4,7 +4,7 @@
 #### (finanzielle Situation)
 - Eigenkapital von 60.000
 - EuroZusätzliches Einkommen durch Sponsoring
-- Darlehn von 10.000 Euro
+- Darlehen von 10.000 Euro
 ### Organizational contraints 
 #### (Organisatorische Einschränkungen)
 - Datenschutz
