@@ -1,6 +1,6 @@
 # Initial Situation
 ### (Die ANFANGS - Situation)  
-- 
+
  
 
 
