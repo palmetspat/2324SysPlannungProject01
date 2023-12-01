@@ -34,10 +34,15 @@ Scanner und Drucker zu entwickeln, der Scanner soll:
 
 ## Feasibility of project
 #### (Durchführbarkeit des Projektes)
+
 Die Software wird von uns intern entwickelt und programmiert.
 
 Für den Scanner wurden die ersten Anfragen und Gespräche mit mehreren Firmen vor 6 Monaten gestartet. Nach 2 intensiven Monaten konnten wir uns dann mit der Firma Epsin auf ein Konzept einigen das folgende Punkte beinhaltet:
-- 
+- einen Scanner zu entwickeln, der Fotoalben bis zu einer Größe von 1,5m x 1,25m abdedcken kann
+- Der Scanner wird so konzipiert, dass er mühelos ein aufgeschlagenes Fotoalbum von oben einscannt. Seine vollautomatische Funktionalität bedeutet, dass keinerlei zusätzliches Personal erforderlich ist – er erledigt alles eigenständig. Das bedeutet, dass er nicht nur die Seiten scannt, sondern auch nahtlos weiterblättert
+- zusätzlich wird jede offenliegende Album in 3D gescannt um dadurch den Verzerrungen der aufgeschlagenen Seiten entgegegenzuwirken, die von uns entwickelte Software ist dann für den Optimierungsprozess verantwortlich
+Dieses Monat wurde der Bau des Prototypen gestartet und wird voraussichtlich
+
 
 ## Affordability of project
 #### (Finanzierung des Projektes)
