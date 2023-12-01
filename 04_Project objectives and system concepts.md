@@ -9,6 +9,7 @@ eingescannt und zusätzlich wird die aufgeschlagene Seite mit einem 3D Scanner a
 ## Systemkonzepte
 
 Unser Geschäftsmodell startet am Anfang im D-A-CH Raum. Der Kunde erstellt sich auf unserer Homepage ein Kundenkonto und gibt dann in Auftrag, welche Optionen er für seine Fotos wünscht. Danach kann er durch unseren erstellten Preisrechner, durch die Eingabe der Größe und des Gewichtes, den Versandpreis ermitteln. Der Auftraggeber schickt dann mit der Post oder einem Paketlieferdienst seine Alben an unsere Firma. Nach der Fertigstellung wird dem Kunden eine Endabrechnug zugesendet, die ergibt sich durch die Anzahl der Bilder. Weiters erhält der Käufer eine Versandbestätigung mit der dazugehörigen Trackingnummer. 
+Wenn unsere Geschäftsaktivitäten gefestigt sind und ein stabiles Fundament besteht, ist unser nächster Schritt in Europa zu expandieren.
 
 
 
