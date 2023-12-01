@@ -49,7 +49,12 @@ Für die Entwicklung des Scanners, der dazu benötigten Testphasen inklusive dem
 
 ## Affordability of project
 #### (Finanzierung des Projektes)
-- Die zu erwartenden Kosten durch Analyse, Entwicklung, Testphasen und Produktion können durch unser großes Produkt Portfolie refinanziert werden. 
+- Die zu erwartenden Kosten durch Analyse, Entwicklung, Testphasen und Produktion können durch unser Produkt Portfolie refinanziert werden.
+Das Produkt Portfolie beinhaltet folgendes:
+- digitale Kopien des Fotoalbums (pro Bild 15 Cent)
+- physische Kopien des Fotoalbums (Größen von 4x6Zoll bis A4, der Preis beträgt von 26 Cent bis 1,24 €)
+- eine optionale Bildverbesserung kann zusätzlich ausgewählt werden (pro Bild 10 Cent)
+                                               
 
 ## Market and economic effect of project
 #### ( Markt und Wirtschaftseffekt des Projektes)
