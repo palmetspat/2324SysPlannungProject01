@@ -30,7 +30,7 @@
 31.10.2025
 
 #### Verfügbarkeit des ersten Prototyps:
-Soll im 4. Quartal 2024 fertig sein
+März 2024 steht der erste Prototyp zur Verfügung
 
 #### Startdatum des Projekts: 
 07.01.2024
