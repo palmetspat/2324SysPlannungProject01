@@ -41,7 +41,10 @@ Für den Scanner wurden die ersten Anfragen und Gespräche mit mehreren Firmen v
 - einen Scanner zu entwickeln, der Fotoalben bis zu einer Größe von 1,5m x 1,25m abdedcken kann
 - Der Scanner wird so konzipiert, dass er mühelos ein aufgeschlagenes Fotoalbum von oben einscannt. Seine vollautomatische Funktionalität bedeutet, dass keinerlei zusätzliches Personal erforderlich ist – er erledigt alles eigenständig. Das bedeutet, dass er nicht nur die Seiten scannt, sondern auch nahtlos weiterblättert
 - zusätzlich wird jede offenliegende Album in 3D gescannt um dadurch den Verzerrungen der aufgeschlagenen Seiten entgegegenzuwirken, die von uns entwickelte Software ist dann für den Optimierungsprozess verantwortlich
-Dieses Monat wurde der Bau des Prototypen gestartet und wird voraussichtlich
+  
+Dieses Monat wurde der Bau des Prototypen gestartet und ab März 2024 kann mit den ersten Testphasen begonnen werden. 
+Für die Entwicklung des Scanners, der dazu benötigten Testphasen inklusive dem Projektabschluss werden seitens Scannerpartners Epsin ca 100.000€ kalkuliert. 
+
 
 
 ## Affordability of project
