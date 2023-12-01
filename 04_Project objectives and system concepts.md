@@ -1,6 +1,6 @@
 # Project objectives and system concepts
 
-##Projektziele
+## Projektziele
 
 Wir möchten ein Programm erstellen, dass die Fähigkeit besitzt ein Fotoalbum einzuscannen, ohne das die Bilder direkt aufliegen müssen, 
 oder es abgedunkelt werden muss. Bei uns wird die ganze aufgeschlagene Fotobuchseite auf einmal eingescannt, dabei werden alle Bilder 
