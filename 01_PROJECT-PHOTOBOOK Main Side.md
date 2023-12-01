@@ -34,8 +34,10 @@ Scanner und Drucker zu entwickeln, der Scanner soll:
 
 ## Feasibility of project
 #### (Durchführbarkeit des Projektes)
-- Die Software wird von uns intern entwickelt und programmiert.
-- Für die Entwicklung des Scanners sind wir schon mit einigen Firmen im Gespräch.
+Die Software wird von uns intern entwickelt und programmiert.
+
+Für den Scanner wurden die ersten Anfragen und Gespräche mit mehreren Firmen vor 6 Monaten gestartet. Nach 2 intensiven Monaten konnten wir uns dann mit der Firma Epsin auf ein Konzept einigen das folgende Punkte beinhaltet:
+- 
 
 ## Affordability of project
 #### (Finanzierung des Projektes)
