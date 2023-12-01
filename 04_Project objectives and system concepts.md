@@ -1,12 +1,14 @@
 # Project objectives and system concepts
-## (Projektziele und Systemkonzepte)
+
+##Projektziele
 
 Wir möchten ein Programm erstellen, dass die Fähigkeit besitzt ein Fotoalbum einzuscannen, ohne das die Bilder direkt aufliegen müssen, 
 oder es abgedunkelt werden muss. Bei uns wird die ganze aufgeschlagene Fotobuchseite auf einmal eingescannt, dabei werden alle Bilder 
-eingescannt und zusätzlich wird die aufgeschlagene Seite mit einem 3D Scanner abgetastet umso den Verzerrungen mit digitalen Korrekturen entgegenzuwirken.  
+eingescannt und zusätzlich wird die aufgeschlagene Seite mit einem 3D Scanner abgetastet umso den Verzerrungen mit digitalen Korrekturen entgegenzuwirken. 
 
-Dann kann der Kunde nach Wunsch eine digitale Bildbearbeitung asuwählen oder sie dem Originalzustand belassen. Danach können sie zwischen verschiedenen Optionen wählen, 
-ob sie ihre Fotos nur digital haben möchten, per USB Stick oder auch per Cloud online abrufbar sind. Weiters soll die Möglichkeit bestehen ein neues Fotoalbum zu bekommen, wo die Bilder nach Wunsch digital optimiert wurden.
+## Systemkonzepte
+
+Unser Geschäftsmodell startet am Anfang im D-A-CH Raum. Der Kunde erstellt sich auf unserer Homepage ein Kundenkonto und gibt dann in Auftrag, welche Optionen er für seine Fotos wünscht. Danach kann er durch unseren erstellten Preisrechner, durch die Eingabe der Größe und des Gewichtes, den Versandpreis ermitteln. Der Auftraggeber schickt dann mit der Post oder einem Paketlieferdienst seine Alben an unsere Firma. Nach der Fertigstellung wird dem Kunden eine Endabrechnug zugesendet, die ergibt sich durch die Anzahl der Bilder. Weiters erhält der Käufer eine Versandbestätigung mit der dazugehörigen Trackingnummer. 
 
 
 
