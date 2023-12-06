@@ -23,7 +23,7 @@ der sich aus dem Multifunktionsgerät und unserer Fotooptimierungssoftware zusam
 Merkmale:
 - Die vorhandene Bildqualität 1:1 zu digitalisieren
 - Die Bildqualiät des eingescannten Bildes auf Wunsch mit unserer Software verbessern
-- Oder eine manuelle Bearbeitung des Bildes(spezielle Kundenwünsche wie Bildkomposition, entfernen von Objekten aus dem Bild, usw.)
+- Oder eine manuelle Bearbeitung des Bildes (spezielle Kundenwünsche wie Bildkomposition, entfernen von Objekten aus dem Bild, usw.)
 
 ## Necessity of project
 #### (Notwendigkeit des Projektes)
