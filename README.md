@@ -2,4 +2,6 @@
 ## 01_Project
 
 - Our First Project with Github
-- Describer: Patrick Palmetshofer,Kern Christoph, Daurer Markus
+- Author: Patrick Palmetshofer,Kern Christoph, Daurer Markus
+
+## Please start with 
