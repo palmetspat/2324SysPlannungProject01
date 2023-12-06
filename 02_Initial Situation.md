@@ -1,7 +1,7 @@
 # Initial Situation
 ### (Die ANFANGS - Situation)  
 
-Es existieren auf der Welt noch milliarden analoge Fotos, die auf Dachböden oder in Kellern in Aufbewahrungsboxen gelagert werden. Durch den Alterungsprozess müssen Leute ihre liebgewonnenen Erinnerungen wegschmeißen, dadurch geht Jahr für Jahr Kulturgut und Wissen weiter verloren.
+Es existieren auf der Welt noch Milliarden analoge Fotos, die auf Dachböden oder in Kellern in Aufbewahrungsboxen gelagert werden. Durch den Alterungsprozess müssen Leute ihre liebgewonnenen Erinnerungen wegschmeißen, dadurch geht Jahr für Jahr Kulturgut und Wissen weiter verloren.
 
 
  
