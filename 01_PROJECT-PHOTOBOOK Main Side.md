@@ -18,11 +18,12 @@ Es gibt bereits funktionierende Produkte oder Services, die am Markt verfügbar 
 jedoch sind diese entweder teuer oder qualitativ nicht hochwertig.
 
 
-Aus diesem Grund wurde die Idee geschaffen, einen Multifunktionsgerät bestehend aus 
-Scanner und Drucker zu entwickeln, der Scanner soll:
+Aus diesem Grund wurde die Idee geschaffen, einen Service für Fotoalben anzubieten, 
+der sich aus dem Multifunktionsgerät und unserer Fotooptimierungssoftware zusammensetzt. 
+Merkmale:
 - Die vorhandene Bildqualität 1:1 zu digitalisieren
-- Die Bildqualiät des eingescannten Bildes mit Software verbessern
-- Oder eine manuelle Bearbeitung des Bildes
+- Die Bildqualiät des eingescannten Bildes auf Wunsch mit unserer Software verbessern
+- Oder eine manuelle Bearbeitung des Bildes(spezielle Kundenwünsche wie Bildkomposition, entfernen von Objekten aus dem Bild, usw.)
 
 ## Necessity of project
 #### (Notwendigkeit des Projektes)
@@ -37,7 +38,7 @@ Scanner und Drucker zu entwickeln, der Scanner soll:
 
 Die Software wurde von uns bereits soweit entwickelt, dass wir Simulationen auf den Computer durchführen können. Somit ist gewährleistet, dass ab Bereitstellung des Prototypen mit den ersten Testphasen begonnen werden kann. 
 
-Für den Scanner wurden die ersten Anfragen und Gespräche mit mehreren Firmen vor 6 Monaten gestartet. Nach 2 intensiven Monaten konnten wir uns dann mit der Firma Epsin auf ein Konzept einigen das folgende Punkte beinhaltet:
+Für den Scanner wurden die ersten Anfragen und Gespräche mit mehreren Firmen vor 6 Monaten gestartet. Nach 2 intensiven Monaten konnten wir uns dann mit der Firma Epsin auf ein Konzept einigen, dass folgende Punkte beinhaltet:
 - einen Scanner zu entwickeln, der Fotoalben bis zu einer Größe von 1,5m x 1,25m abdedcken kann
 - Der Scanner wird so konzipiert, dass er mühelos ein aufgeschlagenes Fotoalbum von oben einscannt. Seine vollautomatische Funktionalität bedeutet, dass keinerlei zusätzliches Personal erforderlich ist – er erledigt alles eigenständig. Das bedeutet, dass er nicht nur die Seiten scannt, sondern auch nahtlos weiterblättert
 - zusätzlich wird jedes offenliegende Album in 3D gescannt um dadurch den Verzerrungen der aufgeschlagenen Seiten entgegegenzuwirken, hierfür ist unsere entwickelte Software für den Optimierungsprozess verantwortlich
