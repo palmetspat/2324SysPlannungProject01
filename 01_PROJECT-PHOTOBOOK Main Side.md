@@ -13,7 +13,7 @@ einen großen individuellen Wert für sie haben. Sie hängen beispielsweise
 sehr oft mit großen Ereignissen aus der Vergangenheit zusammen oder lässt 
 in alte Kindheitstagen zurückfallen. 
 Dazu kommt, dass analoge Fotos der natürlichen Witterung ausgesetzt sind.
-(vergilben, werden spröde, Fotoqualität nimmt immer mehr ab, Seiten kleben zusammen, etc.). 
+(vergilben, werden spröde, Fotoqualität nimmt immer mehr ab, Seiten kleben zusammen, etc.). <break>
 Es gibt bereits funktionierende Produkte oder Services, die am Markt verfügbar sind, 
 jedoch sind diese entweder teuer oder qualitativ nicht hochwertig.
 
