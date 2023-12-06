@@ -1,7 +1,8 @@
 # SystemPlannung
-## 01_Project
+## 01_Project Photobook
 
 - Our First Project with Github
+- We are designing a new photo software that kdigitises you old photos and brings them to new life
 -  Author: Patrick Palmetshofer,Kern Christoph, Daurer Markus
 
   ## Note
