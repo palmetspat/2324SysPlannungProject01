@@ -10,8 +10,6 @@
 - Projektabschluss
   
 
-##  ??Assign project lead and other outstanding roles to team members??
-
 ## Resources
 - ### Human resources
   #### Software
