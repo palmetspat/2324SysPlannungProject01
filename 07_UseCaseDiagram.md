@@ -12,7 +12,6 @@
 - **Fotoalbum scannen**: Digitalisieren der Fotoalben.
 - **Fotoqualität verbessern**: Optische Verbesserung der digitalisierten Bilder.
 - **Manuelle Fotobearbeitung**: Anpassungen nach speziellen Kundenwünschen.
-- **Auftragsbearbeitung über Website**: Kunden platzieren und verfolgen ihre Aufträge online.
 - **Logistik und Versand**: Versenden und Empfangen der Fotoalben durch den Spediteur.
 
 ## Interaktionen
