@@ -1,5 +1,5 @@
-# Projekt: PHOTOBOOK
-# Projektplan: Digitalisierung von Fotoalben
+# Projekt: PHOTOBOOK - Digitalisierung von Fotoalben
+## Identifying Use Cases: 
 
 ## Akteure
 
