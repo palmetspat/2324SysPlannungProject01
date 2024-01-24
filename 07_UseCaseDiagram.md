@@ -1,4 +1,5 @@
-# Projekt: Digitalisierung von Fotoalben
+# Projekt: PHOTOBOOK
+# Projektplan: Digitalisierung von Fotoalben
 
 ## Akteure
 
