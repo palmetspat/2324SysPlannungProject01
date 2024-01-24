@@ -1,33 +1,43 @@
-Akteure:
+# Projekt: Digitalisierung von Fotoalben
 
-Kunden: Personen, die Interesse an der Digitalisierung ihrer Fotoalben haben.
+## 1. Akteure
 
-Mitarbeiter des Unternehmens: Zuständig für die Auftragsbearbeitung und Kundenkommunikation.
+### Kunden
+- Personen, die Interesse an der Digitalisierung ihrer Fotoalben haben.
 
-Spediteur: Verantwortlich für den Transport der Fotoalben.
+### Mitarbeiter des Unternehmens
+- Zuständig für die Auftragsbearbeitung und Kundenkommunikation.
 
-Technischer Support: Für die Wartung und die Behebung von Problemen mit Geräten und Software zuständig.
+### Spediteur
+- Verantwortlich für den Transport der Fotoalben.
 
-Hauptprozesse:
+### Technischer Support
+- Für die Wartung und die Behebung von Problemen mit Geräten und Software zuständig.
 
-Digitalisierung der Fotoalben: Scannen der Fotoalben, um sie digital verfügbar zu machen.
+## 2. Hauptprozesse
 
-Verbesserung der Fotoqualität: Optische Optimierung der digitalisierten Bilder.
+### Digitalisierung der Fotoalben
+- Scannen der Fotoalben, um sie digital verfügbar zu machen.
 
-Manuelle Bildbearbeitung: Anpassungen gemäß individueller Kundenwünsche.
+### Verbesserung der Fotoqualität
+- Optische Optimierung der digitalisierten Bilder.
 
-Auftragsabwicklung über die Website: Kunden können ihre Aufträge online aufgeben und verfolgen.
+### Manuelle Bildbearbeitung
+- Anpassungen gemäß individueller Kundenwünsche.
 
-Logistik und Versand: Versand und Empfang der Fotoalben durch den Spediteur.
+### Auftragsabwicklung über die Website
+- Kunden können ihre Aufträge online aufgeben und verfolgen.
 
-Interaktionen:
+### Logistik und Versand
+- Versand und Empfang der Fotoalben durch den Spediteur.
 
-Kunden nutzen hauptsächlich die Website für die Auftragserteilung.
+## 3. Interaktionen
+
+- **Kunden** nutzen hauptsächlich die Website für die Auftragserteilung.
+
 
 Mitarbeiter des Unternehmens kümmern sich um die Auftragsbearbeitung und die Kommunikation mit den Kunden.
 
 Der Spediteur ist für den sicheren Transport der Alben verantwortlich.
 
-Systemgrenze:
 
-Umschließt den vollständigen Prozess von der Auftragserteilung über die Website bis hin zur Rücksendung der digitalisierten Fotos.
