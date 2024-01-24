@@ -1,43 +1,26 @@
 # Projekt: Digitalisierung von Fotoalben
 
-## 1. Akteure
+## Akteure
 
-### Kunden
-- Personen, die Interesse an der Digitalisierung ihrer Fotoalben haben.
+- **Kunden**: Personen, die ihre Fotoalben digitalisieren lassen möchten.
+- **Unternehmensmitarbeiter**: Verantwortlich für die Bearbeitung der Aufträge und Kundenkommunikation.
+- **Spediteur**: Zuständig für den Transport der Fotoalben.
+- **Technischer Support**: Für Wartung und Problemlösungen der Geräte und Software.
 
-### Mitarbeiter des Unternehmens
-- Zuständig für die Auftragsbearbeitung und Kundenkommunikation.
+## Hauptprozesse
 
-### Spediteur
-- Verantwortlich für den Transport der Fotoalben.
+- **Fotoalbum scannen**: Digitalisieren der Fotoalben.
+- **Fotoqualität verbessern**: Optische Verbesserung der digitalisierten Bilder.
+- **Manuelle Fotobearbeitung**: Anpassungen nach speziellen Kundenwünschen.
+- **Auftragsbearbeitung über Website**: Kunden platzieren und verfolgen ihre Aufträge online.
+- **Logistik und Versand**: Versenden und Empfangen der Fotoalben durch den Spediteur.
 
-### Technischer Support
-- Für die Wartung und die Behebung von Problemen mit Geräten und Software zuständig.
+## Interaktionen
 
-## 2. Hauptprozesse
+- **Kunden** interagieren hauptsächlich über die Website und sind an der Auftragserteilung beteiligt.
+- **Unternehmensmitarbeiter** kümmern sich um die Auftragsbearbeitung und Kundenkommunikation.
+- **Spediteur** ist für den sicheren Transport der Alben zuständig.
 
-### Digitalisierung der Fotoalben
-- Scannen der Fotoalben, um sie digital verfügbar zu machen.
+## Systemgrenze
 
-### Verbesserung der Fotoqualität
-- Optische Optimierung der digitalisierten Bilder.
-
-### Manuelle Bildbearbeitung
-- Anpassungen gemäß individueller Kundenwünsche.
-
-### Auftragsabwicklung über die Website
-- Kunden können ihre Aufträge online aufgeben und verfolgen.
-
-### Logistik und Versand
-- Versand und Empfang der Fotoalben durch den Spediteur.
-
-## 3. Interaktionen
-
-- **Kunden** nutzen hauptsächlich die Website für die Auftragserteilung.
-
-
-Mitarbeiter des Unternehmens kümmern sich um die Auftragsbearbeitung und die Kommunikation mit den Kunden.
-
-Der Spediteur ist für den sicheren Transport der Alben verantwortlich.
-
-
+- Beinhaltet den gesamten Prozess von der Auftragserteilung über die Website bis zur Rücksendung der digitalisierten Fotos.
